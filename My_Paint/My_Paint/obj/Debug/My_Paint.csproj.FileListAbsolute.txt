@@ -1,0 +1,18 @@
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\bin\Debug\My_Paint.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\bin\Debug\My_Paint.exe
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\bin\Debug\My_Paint.pdb
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\obj\Debug\My_Paint.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\obj\Debug\My_Paint.Properties.Resources.resources
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\obj\Debug\My_Paint.csproj.GenerateResource.Cache
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\obj\Debug\My_Paint.exe
+c:\users\anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\obj\Debug\My_Paint.pdb
+C:\Users\Anna\documents\visual studio 2013\Projects\My_Paint\My_Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\bin\Debug\My_Paint.exe.config
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\obj\Debug\My_Paint.exe
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\obj\Debug\My_Paint.pdb
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\bin\Debug\My_Paint.exe
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\bin\Debug\My_Paint.pdb
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\obj\Debug\My_Paint.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\Anna\Desktop\Εργασίες\C#\My_Paint\My_Paint\obj\Debug\My_Paint.csproj.GenerateResource.Cache
